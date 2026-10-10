@@ -75,3 +75,4 @@ The files found in the `legacy` folder are for those working with very old I-Ds 
 * **rfc2629-other.ent** is a small set of character entities. This file is no longer needed as the special processing of non-ASCII character has been superseded by direct support for non-ASCII characters in RFCXML.
 * **rfc2629-xhtml.ent** is a larger set of character entities. This file is no longer needed as the special processing of non-ASCII character has been superseded by direct support for non-ASCII characters in RFCXML.
 * Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
